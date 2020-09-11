@@ -1,0 +1,15 @@
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\bin\Debug\netcoreapp3.1\VivConverter.exe
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\bin\Debug\netcoreapp3.1\VivConverter.deps.json
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\bin\Debug\netcoreapp3.1\VivConverter.runtimeconfig.json
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\bin\Debug\netcoreapp3.1\VivConverter.runtimeconfig.dev.json
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\bin\Debug\netcoreapp3.1\VivConverter.dll
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\bin\Debug\netcoreapp3.1\VivConverter.pdb
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\obj\Debug\netcoreapp3.1\VivConverter.csprojAssemblyReference.cache
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\obj\Debug\netcoreapp3.1\VivConverter.Form1.resources
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\obj\Debug\netcoreapp3.1\VivConverter.csproj.GenerateResource.cache
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\obj\Debug\netcoreapp3.1\VivConverter.AssemblyInfoInputs.cache
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\obj\Debug\netcoreapp3.1\VivConverter.AssemblyInfo.cs
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\obj\Debug\netcoreapp3.1\VivConverter.csproj.CoreCompileInputs.cache
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\obj\Debug\netcoreapp3.1\VivConverter.dll
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\obj\Debug\netcoreapp3.1\VivConverter.pdb
+C:\Users\pho\GitHub\VivConverter\VivConverter\VivConverter\obj\Debug\netcoreapp3.1\VivConverter.genruntimeconfig.cache
